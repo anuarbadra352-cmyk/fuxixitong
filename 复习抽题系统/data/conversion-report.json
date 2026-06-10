@@ -1,0 +1,18 @@
+{
+  "generatedAt": "2026-06-09T09:10:49.501Z",
+  "total": 475,
+  "needsReview": 81,
+  "bySource": {
+    "5.30概论课题库.docx": 252,
+    "《计算机操作系统(慕课版)》期末考试卷及评分标准(1.7).docx.docx": 79,
+    "《计算机操作系统(慕课版)》试题库(1.7).docx.docx": 144
+  },
+  "byType": {
+    "choice": 220,
+    "multi_choice": 70,
+    "judge": 84,
+    "short_answer": 43,
+    "blank": 41,
+    "application": 17
+  }
+}
